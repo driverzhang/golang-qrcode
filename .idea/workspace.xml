@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3563c0fa-4b76-43ad-9dde-96609ab366e1" name="Default Changelist" comment="" />
+    <list default="true" id="3563c0fa-4b76-43ad-9dde-96609ab366e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode.go" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/share_red_backend_4444.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +45,24 @@
       <recent name="$PROJECT_DIR$/oss" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="TestQrCode_QrCode4Image in github.com/driverzhang/golang-qrcode" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-qrcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/driverzhang/golang-qrcode" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQrCode_QrCode4Image$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestQrCode_QrCode4Image in github.com/driverzhang/golang-qrcode" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -46,9 +71,25 @@
     <proxy>https://goproxy.cn</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="100" key="SettingsEditor" timestamp="1583071052166">
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1583500075126">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583071052166" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583500075126" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1583500075125">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583500075125" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1583500075125">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583500075125" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1583500075126">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583500075126" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1583499826583">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583499826583" />
   </component>
 </project>
